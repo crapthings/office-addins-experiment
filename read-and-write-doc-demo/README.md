@@ -89,3 +89,6 @@ ps 可以用 btoa 把内容转成 base64 发给服务器存储
     res.sendStatus(200);
   });
 ```
+
+refs
+> https://scotch.io/tutorials/how-to-encode-and-decode-strings-with-base64-in-javascript
